@@ -11,7 +11,7 @@ Assignment #: 3
 
 Source code (.java) file name(s):
 
-DLBCodeBook.java, ArrayCodeBook.java, LZW.java, a3.md, InfoSheet.md, BinaryStdIn.java, BinaryStdOut.java, CompressionCodeBookInterface.java, ExpansionCodeBookInterface.java, compress.exe, test.bat, test.sh 
+DLBCodeBook.java, ArrayCodeBook.java, LZW.java, a3.md, InfoSheet.md, BinaryStdIn.java, BinaryStdOut.java, CompressionCodeBookInterface.java, ExpansionCodeBookInterface.java
 
 Does your program compile without errors?: Yes
 
